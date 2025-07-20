@@ -1,0 +1,21 @@
+# Xcode‑Build & Caches
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# Asset‑Catalogs, 3D‑Modelle, große Binaries
+art.scnassets/
+Assets.xcassets/
+*.scn
+*.ttf
+*.otf
+Retro\ Gaming.ttf
+
+# Test‑Targets (falls nicht versioniert)
+BackupTests/
+BackupUITests/
+
+# macOS‑Systemfiles
+.DS_Store
